@@ -1,0 +1,9 @@
+{
+  "packId": "madinah_hafs_standard39_v1",
+  "name": "Madinah Hafs Standard 39",
+  "narration": "Hafs 'an 'Asim",
+  "pagesCount": 605,
+  "pageFilePattern": "page_%03d.png",
+  "version": "1.0.0",
+  "remoteBaseURL": "https://media.githubusercontent.com/media/mohamedaeldin/withallah-mushaf-packs/main/packs/madinah_hafs_standard39_v1/pages/"
+}
