@@ -1,0 +1,9 @@
+{
+  "id": "qurancomplex_adi_v1",
+  "name_ar": "المصحف العادي",
+  "name_en": "Standard Mushaf",
+  "pages": 604,
+  "version": "1.0.0",
+  "source": "qurancomplex.gov.sa",
+  "dpi": 150
+}
