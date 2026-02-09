@@ -12,7 +12,6 @@ All editions contain 604 pages (page_003.png to page_606.png) in both light and 
 | `qurancomplex_mumtaz_v1` | المصحف الممتاز | Premium Mushaf | ~350 MB |
 | `qurancomplex_khas1_v1` | المصحف الخاص | Special Mushaf | ~350 MB |
 | `qurancomplex_jawami_v1` | المصحف الجوامعي | Comprehensive Mushaf | ~400 MB |
-| `qurancomplex_adi_v1` | المصحف العادي | Standard Mushaf | ~300 MB |
 | `qurancomplex_wasat_v1` | المصحف الوسط | Medium Mushaf | ~250 MB |
 
 ## Directory Structure
